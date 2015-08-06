@@ -1,2 +1,2 @@
 # emacs-themes
-Custom emacs theme.
+Custom emacs themes.
